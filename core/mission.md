@@ -1,0 +1,9 @@
+---
+description: Explorer for stress less communication
+---
+
+# Mission
+
+In modern communication, the ease of instantly sending messages for free compared to traditional letter exchanges has increased the cost of making recipients feel the sender's presence, leading to stress on both sides. For instance, with email and Web 2.0 social media platforms and messaging apps, there are more unwanted messages, so when greeting someone new without an introduction, you need to write a polite, long message to prove it's not spam. Additionally, as people commonly start connecting with each other through online activities due to the widespread use of social media, more efficient and safer ways of exchanging greetings are in demand. On the other hand, the use of blockchain and zero-knowledge proofs has enabled public data storage while maintaining anonymity. Consequently, a cultural and technological foundation has been established for accepting new internet-native greeting protocols. Furthermore, in the web3 era, innovative changes have emerged, such as the public release of account activity history, leading to increased attempts to evaluate account credibility from their activity history.
+
+The aim of this project is to provide a communication method that allows people to send greetings more easily, facilitating first-time and long-overdue greetings and promoting serendipity. Additionally, we strive to build a non-profit autonomous decentralized organization, maintaining protocol neutrality, code transparency, and ease of participation in governance while aiming to become a social infrastructure. Moreover, by utilizing the open data of greeting history, account credibility can be easily demonstrated. This also serves the purpose of mitigating trolling, irresponsible information dissemination, and defamation.\
